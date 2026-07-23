@@ -1,0 +1,57 @@
+[
+  {
+    "scenario": "tailgating",
+    "track_id": [
+      1,
+      2
+    ],
+    "confidence": 0.75,
+    "severity": "medium",
+    "note": "2 people entered the entry zone within 2.0s of each other (ids [1, 2])",
+    "frame": 72,
+    "timestamp": 2.88
+  },
+  {
+    "scenario": "restricted_zone_intrusion",
+    "track_id": 0,
+    "confidence": 0.9,
+    "severity": "high",
+    "note": "Person entered restricted zone 'RoofAccess' during curfew hours",
+    "frame": 134,
+    "timestamp": 5.36
+  },
+  {
+    "scenario": "tailgating",
+    "track_id": [
+      1,
+      2
+    ],
+    "confidence": 0.75,
+    "severity": "medium",
+    "note": "2 people entered the entry zone within 2.0s of each other (ids [1, 2])",
+    "frame": 172,
+    "timestamp": 6.88
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      3,
+      4,
+      5
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 130.0px (ids [3, 4, 5])",
+    "frame": 204,
+    "timestamp": 8.16
+  },
+  {
+    "scenario": "restricted_zone_intrusion",
+    "track_id": 6,
+    "confidence": 0.9,
+    "severity": "high",
+    "note": "Person entered restricted zone 'RoofAccess' during curfew hours",
+    "frame": 212,
+    "timestamp": 8.48
+  }
+]

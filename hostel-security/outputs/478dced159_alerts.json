@@ -1,0 +1,266 @@
+[
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      0,
+      2,
+      3
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [0, 2, 3])",
+    "frame": 169,
+    "timestamp": 7.04
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      0,
+      2,
+      5
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [0, 2, 5])",
+    "frame": 205,
+    "timestamp": 8.54
+  },
+  {
+    "scenario": "possible_altercation",
+    "track_id": [
+      5,
+      11
+    ],
+    "confidence": 0.65,
+    "severity": "high",
+    "note": "Persons 5 & 11 in close proximity (39px) while both moving erratically (~281/293 px/s)",
+    "frame": 317,
+    "timestamp": 13.21
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      9,
+      11,
+      16
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [9, 11, 16])",
+    "frame": 322,
+    "timestamp": 13.42
+  },
+  {
+    "scenario": "possible_altercation",
+    "track_id": [
+      9,
+      16
+    ],
+    "confidence": 0.65,
+    "severity": "high",
+    "note": "Persons 9 & 16 in close proximity (31px) while both moving erratically (~141/265 px/s)",
+    "frame": 323,
+    "timestamp": 13.46
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      2,
+      6,
+      15
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [2, 6, 15])",
+    "frame": 325,
+    "timestamp": 13.54
+  },
+  {
+    "scenario": "possible_altercation",
+    "track_id": [
+      11,
+      16
+    ],
+    "confidence": 0.65,
+    "severity": "high",
+    "note": "Persons 11 & 16 in close proximity (70px) while both moving erratically (~281/143 px/s)",
+    "frame": 327,
+    "timestamp": 13.62
+  },
+  {
+    "scenario": "possible_altercation",
+    "track_id": [
+      6,
+      15
+    ],
+    "confidence": 0.65,
+    "severity": "high",
+    "note": "Persons 6 & 15 in close proximity (73px) while both moving erratically (~152/148 px/s)",
+    "frame": 331,
+    "timestamp": 13.79
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      5,
+      11,
+      16
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [5, 11, 16])",
+    "frame": 331,
+    "timestamp": 13.79
+  },
+  {
+    "scenario": "fall_detection",
+    "track_id": 9,
+    "confidence": 0.7,
+    "severity": "high",
+    "note": "Bounding box flipped from standing to horizontal within 0.6s \u2014 possible fall",
+    "frame": 337,
+    "timestamp": 14.04
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      5,
+      6,
+      16
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [5, 6, 16])",
+    "frame": 362,
+    "timestamp": 15.08
+  },
+  {
+    "scenario": "possible_altercation",
+    "track_id": [
+      3,
+      19
+    ],
+    "confidence": 0.65,
+    "severity": "high",
+    "note": "Persons 3 & 19 in close proximity (18px) while both moving erratically (~166/153 px/s)",
+    "frame": 364,
+    "timestamp": 15.17
+  },
+  {
+    "scenario": "possible_altercation",
+    "track_id": [
+      18,
+      19
+    ],
+    "confidence": 0.65,
+    "severity": "high",
+    "note": "Persons 18 & 19 in close proximity (26px) while both moving erratically (~320/171 px/s)",
+    "frame": 376,
+    "timestamp": 15.67
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      5,
+      15,
+      22
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [5, 15, 22])",
+    "frame": 442,
+    "timestamp": 18.42
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      15,
+      22,
+      23
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [15, 22, 23])",
+    "frame": 456,
+    "timestamp": 19.0
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      15,
+      23,
+      24
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [15, 23, 24])",
+    "frame": 491,
+    "timestamp": 20.46
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      15,
+      22,
+      23,
+      24
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "4 people clustered within 120.0px (ids [15, 22, 23, 24])",
+    "frame": 493,
+    "timestamp": 20.54
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      15,
+      22,
+      24
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [15, 22, 24])",
+    "frame": 496,
+    "timestamp": 20.67
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      22,
+      23,
+      24
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [22, 23, 24])",
+    "frame": 510,
+    "timestamp": 21.25
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      23,
+      24,
+      26
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [23, 24, 26])",
+    "frame": 580,
+    "timestamp": 24.17
+  },
+  {
+    "scenario": "crowd_formation",
+    "track_id": [
+      28,
+      29,
+      30
+    ],
+    "confidence": 0.85,
+    "severity": "medium",
+    "note": "3 people clustered within 120.0px (ids [28, 29, 30])",
+    "frame": 724,
+    "timestamp": 30.17
+  }
+]
